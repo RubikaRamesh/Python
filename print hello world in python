@@ -2,3 +2,6 @@
 print("Hello, World!") -'print' is python build-in function
 #" " -inside quotes mark denote/declare as string type in python
 
+Output:
+Hello, World!
+
